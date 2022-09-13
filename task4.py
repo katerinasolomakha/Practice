@@ -1,5 +1,3 @@
-from re import I
-
 n = int(input())
 
 for i in range(n, 0, -1):
