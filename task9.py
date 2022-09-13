@@ -1,5 +1,3 @@
-from re import S
-
 n = int(input())
 line = 1
 i = 1
